@@ -1,3 +1,3 @@
 # validacionCorrelatividades
 Ejercicio para validar correlatividades
-![Logo](./DiagramaDeClases)
+![Logo](./DiagramaDeClases.png)
