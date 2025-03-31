@@ -1,0 +1,2 @@
+# validacionCorrelatividades
+Ejercicio para validar correlatividades
